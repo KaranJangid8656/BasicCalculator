@@ -1,2 +1,2 @@
 # BasicCalculator
-A simple Python calculator for basic arithmetic operations 
+A simple Python calculator for basic arithmetic operations.
