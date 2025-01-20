@@ -1,6 +1,6 @@
 
 # Basic Calculator
- My first demo repo on github
+   ## My first demo repo on github
 
 ## Description
 This project is a simple calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
